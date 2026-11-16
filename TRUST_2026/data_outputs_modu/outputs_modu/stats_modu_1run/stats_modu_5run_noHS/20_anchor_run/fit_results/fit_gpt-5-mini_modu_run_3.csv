@@ -1,0 +1,10 @@
+Dimension,Estimate,SE,Count,Facility,Infit_anch,Outfit_anch,LLM,run
+sentiment,-1.7,0.114,855,0.739,1.407,1.272,gpt-5-mini_modu,3
+respect,-1.5,0.104,834,0.701,1.545,1.491,gpt-5-mini_modu,3
+insult,-0.671,0.104,834,0.649,1.588,1.505,gpt-5-mini_modu,3
+humiliate,-0.043,0.099,834,0.599,1.835,1.827,gpt-5-mini_modu,3
+status,-0.437,0.115,834,0.677,1.453,1.903,gpt-5-mini_modu,3
+dehumanize,0.863,0.095,834,0.441,1.759,1.736,gpt-5-mini_modu,3
+violence,1.677,0.181,834,0.184,2.458,2.177,gpt-5-mini_modu,3
+genocide,2.404,0.246,834,0.085,2.38,2.032,gpt-5-mini_modu,3
+attack_defend,-0.593,0.085,834,0.659,1.294,1.265,gpt-5-mini_modu,3

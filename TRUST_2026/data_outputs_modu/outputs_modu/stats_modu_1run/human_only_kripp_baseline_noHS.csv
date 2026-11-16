@@ -1,0 +1,10 @@
+Dimension,Kripp_alpha_human,n_comments,n_raters,n_comments_with_disagreement
+sentiment,0.5655,191,527,132
+respect,0.5959,191,527,128
+insult,0.5372,191,527,142
+humiliate,0.473,191,527,144
+status,0.3399,191,527,118
+dehumanize,0.3959,191,527,158
+violence,0.3887,191,527,118
+genocide,0.2747,191,527,83
+attack_defend,0.4511,191,527,134

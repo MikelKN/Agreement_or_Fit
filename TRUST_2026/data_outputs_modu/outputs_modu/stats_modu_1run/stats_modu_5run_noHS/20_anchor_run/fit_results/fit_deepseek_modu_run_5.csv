@@ -1,0 +1,10 @@
+Dimension,Estimate,SE,Count,Facility,Infit_anch,Outfit_anch,LLM,run
+sentiment,-1.503,0.091,855,0.753,1.26,1.122,deepseek_modu,5
+respect,-1.626,0.111,823,0.722,1.512,1.455,deepseek_modu,5
+insult,-0.586,0.084,823,0.649,1.558,1.48,deepseek_modu,5
+humiliate,-0.022,0.095,823,0.604,1.783,1.745,deepseek_modu,5
+status,-0.492,0.101,823,0.692,1.392,1.835,deepseek_modu,5
+dehumanize,0.827,0.093,823,0.445,2.024,1.942,deepseek_modu,5
+violence,1.575,0.156,823,0.2,2.424,2.201,deepseek_modu,5
+genocide,2.391,0.216,823,0.085,2.465,2.081,deepseek_modu,5
+attack_defend,-0.564,0.075,823,0.676,1.323,1.292,deepseek_modu,5

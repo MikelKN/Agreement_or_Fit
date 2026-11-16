@@ -1,0 +1,10 @@
+Dimension,Estimate,SE,Count,Facility,Infit_anch,Outfit_anch,LLM,run
+sentiment,-1.836,0.109,855,0.725,1.423,1.366,gemini_modu,1
+respect,-1.638,0.099,835,0.665,1.334,1.232,gemini_modu,1
+insult,-0.576,0.092,835,0.567,1.532,1.453,gemini_modu,1
+humiliate,0.204,0.08,835,0.496,1.634,1.869,gemini_modu,1
+status,-0.491,0.116,835,0.637,1.304,2.047,gemini_modu,1
+dehumanize,0.808,0.087,835,0.354,1.855,2.012,gemini_modu,1
+violence,1.711,0.167,835,0.16,2.356,2.004,gemini_modu,1
+genocide,2.459,0.229,836,0.078,2.174,1.81,gemini_modu,1
+attack_defend,-0.641,0.092,835,0.622,1.107,1.121,gemini_modu,1

@@ -1,0 +1,10 @@
+Dimension,Estimate,SE,Count,Facility,Infit_anch,Outfit_anch,LLM,run
+sentiment,-1.769,0.104,855,0.75,1.202,1.061,claude_modu,4
+respect,-1.686,0.105,810,0.698,1.492,1.347,claude_modu,4
+insult,-0.467,0.086,810,0.62,1.427,1.363,claude_modu,4
+humiliate,0.102,0.093,810,0.568,1.62,1.585,claude_modu,4
+status,-0.593,0.105,793,0.674,1.349,1.841,claude_modu,4
+dehumanize,0.869,0.087,810,0.411,1.853,1.871,claude_modu,4
+violence,1.647,0.127,810,0.2,2.061,1.81,claude_modu,4
+genocide,2.508,0.238,810,0.092,2.198,1.794,claude_modu,4
+attack_defend,-0.611,0.099,810,0.654,1.25,1.312,claude_modu,4
